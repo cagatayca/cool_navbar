@@ -1,3 +1,7 @@
+# View My Project
+
+https://cagatayca.github.io/cool_navbar
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
